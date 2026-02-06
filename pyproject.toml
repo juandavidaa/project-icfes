@@ -1,0 +1,10 @@
+[project]
+name = "new-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.4.4",
+    "polar>=0.0.127",
+]
